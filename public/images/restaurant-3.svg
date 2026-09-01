@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="480" viewBox="0 0 840 480" role="img" aria-label="Restaurant kitchen">
+  <rect width="840" height="480" fill="#f7f7f5"/>
+  <rect x="94" y="86" width="652" height="306" fill="#fff" stroke="#111" stroke-width="3"/>
+  <rect x="126" y="124" width="588" height="54" fill="#111"/>
+  <rect x="138" y="220" width="128" height="104" fill="#d9d9d4" stroke="#111" stroke-width="3"/>
+  <rect x="302" y="220" width="236" height="104" fill="#fff" stroke="#111" stroke-width="3"/>
+  <rect x="574" y="220" width="128" height="104" fill="#111"/>
+  <path d="M338 272h164M178 352h486" stroke="#111" stroke-width="12"/>
+</svg>

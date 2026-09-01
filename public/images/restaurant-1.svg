@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="480" viewBox="0 0 840 480" role="img" aria-label="Restaurant counter">
+  <rect width="840" height="480" fill="#f7f7f5"/>
+  <rect x="76" y="94" width="688" height="292" fill="#fff" stroke="#111" stroke-width="3"/>
+  <rect x="108" y="134" width="214" height="90" fill="#111"/>
+  <rect x="354" y="134" width="138" height="90" fill="#d9d9d4" stroke="#111" stroke-width="3"/>
+  <rect x="522" y="134" width="210" height="90" fill="#fff" stroke="#111" stroke-width="3"/>
+  <rect x="122" y="288" width="596" height="56" fill="#111"/>
+  <circle cx="596" cy="180" r="24" fill="#111"/>
+  <circle cx="648" cy="180" r="24" fill="#111"/>
+  <path d="M154 260h124M364 260h160M580 260h92" stroke="#111" stroke-width="12" stroke-linecap="square"/>
+</svg>

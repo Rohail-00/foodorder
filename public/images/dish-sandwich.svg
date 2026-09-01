@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220" role="img" aria-label="Sandwich">
+  <rect width="220" height="220" fill="#f7f7f5"/>
+  <path d="M48 76h124v74H48z" fill="#fff" stroke="#111" stroke-width="6"/>
+  <path d="M54 92h112M54 116h112M54 140h112" stroke="#111" stroke-width="8"/>
+  <path d="M70 58h80" stroke="#111" stroke-width="14" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="480" viewBox="0 0 840 480" role="img" aria-label="Restaurant tables">
+  <rect width="840" height="480" fill="#ffffff"/>
+  <rect x="72" y="70" width="696" height="340" fill="#f7f7f5" stroke="#111" stroke-width="3"/>
+  <path d="M126 156h588M126 324h588" stroke="#111" stroke-width="3"/>
+  <rect x="156" y="188" width="150" height="86" fill="#111"/>
+  <rect x="348" y="188" width="150" height="86" fill="#fff" stroke="#111" stroke-width="3"/>
+  <rect x="540" y="188" width="150" height="86" fill="#d9d9d4" stroke="#111" stroke-width="3"/>
+  <circle cx="230" cy="140" r="20" fill="#111"/>
+  <circle cx="422" cy="140" r="20" fill="#111"/>
+  <circle cx="614" cy="140" r="20" fill="#111"/>
+</svg>

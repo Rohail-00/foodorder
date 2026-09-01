@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220" role="img" aria-label="Fries">
+  <rect width="220" height="220" fill="#f7f7f5"/>
+  <path d="M72 52v84M96 42v96M122 52v84M148 44v96" stroke="#111" stroke-width="12"/>
+  <path d="M54 112h112l-16 62H70z" fill="#fff" stroke="#111" stroke-width="6"/>
+</svg>

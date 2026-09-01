@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220" role="img" aria-label="Burger">
+  <rect width="220" height="220" fill="#f7f7f5"/>
+  <path d="M42 100c8-38 128-38 136 0z" fill="#fff" stroke="#111" stroke-width="6"/>
+  <rect x="40" y="108" width="140" height="24" fill="#111"/>
+  <path d="M48 148h124" stroke="#111" stroke-width="22" stroke-linecap="round"/>
+  <path d="M70 80h6M106 72h6M140 82h6" stroke="#111" stroke-width="6"/>
+</svg>

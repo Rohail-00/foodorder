@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220" role="img" aria-label="Pasta">
+  <rect width="220" height="220" fill="#ffffff"/>
+  <circle cx="110" cy="118" r="70" fill="#f7f7f5" stroke="#111" stroke-width="6"/>
+  <path d="M66 122c22-28 42 28 66 0s34 16 50-10M70 144c28-24 42 18 72-6" fill="none" stroke="#111" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="96" cy="100" r="8" fill="#111"/>
+  <circle cx="138" cy="112" r="8" fill="#111"/>
+</svg>
